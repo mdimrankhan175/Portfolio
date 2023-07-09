@@ -12,6 +12,7 @@ import matchgameApp from "../../Assets/Projects/MatchGameApp.png";
 import moneymanagerApp from "../../Assets/Projects/MoneyManagerApp.png";
 import memegeneratorApp from "../../Assets/Projects/MemeGeneratorApp.png";
 import todoApp from "../../Assets/Projects/TodosApp.png";
+import registrationformApp from "../../Assets/Projects/RegistrationFormApp.png";
 
 function Projects() {
   return (
@@ -72,6 +73,18 @@ function Projects() {
               Username:rahul / Password: rahul@2021"
               ghLink="https://github.com/SomeshBasak/Nxt-Trendz-Shopping-Website"
               demoLink="https://someshnxttrendz.ccbp.tech/login"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={registrationformApp}
+              isBlog={false}
+              title="Registration Form"
+              description="Developed a simple Registration form in which we can give our personal details like name, email, mobile number, address 
+                and it is also connected with Mysql database for store the data."
+              ghLink="https://github.com/SomeshBasak/RegistrationForm-React.js-Node.js-MySQL"
+              demoLink="https://registrationformapp.vercel.app/"
             />
           </Col>
 
