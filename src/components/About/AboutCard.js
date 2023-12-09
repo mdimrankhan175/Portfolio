@@ -8,16 +8,14 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Somesh Basak </span>
-            from <span className="purple"> Bangalore, India.</span>
+            Hi Everyone, I am <span className="purple">MOHAMMAD IMRAN KHAN </span>
+            from <span className="purple"> Hyderabad, India.</span>
             <br />
-            I completed my graduation in Bachelor of Commerce (Accountancy-H) in 2021 from Maharaja Bir Bikram University.
+            I completed my Masters in Computer Applications in 2011 from Aurora PG College, Hyderabad.
             <br />
-            Additionally, I am a Full-Stack Software Developer Trainee at NxtWave.
+            I am a Full-Stack Software Developer Trainee at NxtWave.
             <br/>
-            I also done two months internship of Web Development at Solar Secure Solutions in which i worked in 10 minor projects 
-            and 1 major project where i built a Food Delivery Website using HTML, CSS, Bootstarap, React js, Node js, Mysql. 
-            Also implemented the CRUD operations and the Paypal Payment Gateway Session.
+            I done my Mini Project BOOK HUB using React JS
             <br />
             <br />
             <br />
@@ -38,7 +36,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
           "Consistency and patience are the building blocks of software development success."{" "}
           </p>
-          <footer className="blockquote-footer">Somesh</footer>
+          <footer className="blockquote-footer">IMRAN KHAN</footer>
         </blockquote>
       </Card.Body>
     </Card>
